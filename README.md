@@ -6,8 +6,8 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/sajjad-aman-467359295"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://t.me/dev_sjad"><img src="https://img.shields.io/badge/Telegram-@dev__sjad-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sajjad-aman-467359295"><img src="https://img.shields.io/badge/LinkedIn-Connect-0f1730?style=for-the-badge&logo=linkedin&logoColor=00e5ff&labelColor=090d1c"/></a>
+<a href="https://t.me/dev_sjad"><img src="https://img.shields.io/badge/Telegram-@dev__sjad-0f1730?style=for-the-badge&logo=telegram&logoColor=00e5ff&labelColor=090d1c"/></a>
 
 <br/><br/>
 
@@ -77,8 +77,8 @@ Focus: software development, web systems, cybersecurity fundamentals
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=5jad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0a0e17"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5jad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e17"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=5jad&show_icons=true&count_private=true&bg_color=090d1c&title_color=00e5ff&text_color=cfd8ee&icon_color=b9a6ff&border_color=24305a"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5jad&layout=compact&bg_color=090d1c&title_color=00e5ff&text_color=cfd8ee&icon_color=b9a6ff&border_color=24305a"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/5jad/5jad/output/github-snake-dark.svg"/>
