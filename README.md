@@ -1,111 +1,92 @@
-<!-- ضعه بـ repo اسمه 5jad  (README.md). بعد تغيير المعرف: بدّل 5jad بالمعرف الجديد بكل مكان -->
+<!-- ضعه في repo اسمه 5jad (بعد تغيير المعرف بدّل 5jad بالمعرف الجديد بكل مكان) -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=220&section=header&text=Sajjad%20Aman&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student&descSize=20&descAlignY=58" alt="header" />
-
-<a href="https://github.com/5jad">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+%26+Web+Developer;Python+%7C+Django+%7C+Flutter;I+build+APIs%2C+web+apps+and+automation+tools;Open+to+opportunities" alt="typing" />
-</a>
+<img src="assets/header.svg" alt="Sajjad Aman — Backend Developer & Computer Engineer" width="100%"/>
 
 <br/>
 
-<a href="https://t.me/dev_sjad"><img src="https://img.shields.io/badge/Telegram-@dev__sjad-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="<LINKEDIN_URL>"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:<EMAIL>"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sajjad-aman-467359295"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://t.me/dev_sjad"><img src="https://img.shields.io/badge/Telegram-@dev__sjad-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="assets/terminal.svg" alt="Terminal intro" width="100%"/>
 
 </div>
 
----
-
-## 👨‍💻 About Me
-- 🎓 Computer Engineering student
-- 🔭 I build e-commerce apps, APIs, and automation tools
-- 🌱 Currently improving: <شنو تتعلم هسه>
-- 📍 Iraq
-
----
-
-## 🛠️ Tech Stack
+<br/>
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
+<img src="assets/stack.svg" alt="Tech stack" width="100%"/>
 </div>
+
+<br/>
+
+## 🔐 Featured: QuestGuard
+
+<div align="center">
+<img src="assets/questguard.svg" alt="QuestGuard flow" width="100%"/>
+</div>
+
+**Graduation project (2025–2026)** — a web system that protects ministerial exam papers from leaks by encrypting PDF files with **AES-256**. Authorized users can upload, encrypt, and distribute sensitive exam documents securely.
+
+- Built with **ASP.NET Core MVC**, **Entity Framework Core**, and **SQL Server**
+- Presented at the **4th Programming Expo, University of Kufa (2026)**
+- 🔗 Repository: <QUESTGUARD_REPO_URL>
 
 ---
 
-## 🚀 Featured Projects (اضغط للتفاصيل)
+## 🚀 More Projects
+
+| Project | What it does | Stack |
+|:--|:--|:--|
+| 🛒 [**soog-flutter-app**](https://github.com/5jad/soog-flutter-app) | Mobile e-commerce app connecting merchants with customers so they can publish products inside the app | Flutter · Dart |
+| 📸 [**instagram-auto-poster**](https://github.com/5jad/instagram-auto-poster) | Pulls products from a wholesale platform's API and posts them to Instagram automatically | Python · REST APIs |
+| 🐍 [**django-ecommerce-store**](https://github.com/5jad/django-ecommerce-store) | Full store: product listing, cart, user login, SQL database | Python · Django · Bootstrap |
+
+---
 
 <details>
-<summary><b>🛒 Soog — Flutter E-commerce App</b></summary>
+<summary><b>🏆 Expos & Competitions</b></summary>
 <br/>
 
-Mobile e-commerce app that connects merchants with customers and lets merchants publish their products inside the app.
-
-**Stack:** Flutter · Dart
-🔗 [View repository](https://github.com/5jad/soog-flutter-app)
+- **4th Programming Expo** — University of Kufa, 2026 · presented QuestGuard
+- **AI Applications Expo** — Islamic University, 2025 · showcased an AI-based application
+- **AI Image Generation Contest** — University of Kufa, 2024 · built and presented an image generation tool
 </details>
 
 <details>
-<summary><b>📸 Instagram Auto-Poster</b></summary>
+<summary><b>📚 Training & Workshops</b></summary>
 <br/>
 
-Python tool that pulls products from a wholesale platform's API and publishes them to Instagram automatically.
-
-**Stack:** Python · REST APIs · Automation
-🔗 [View repository](https://github.com/5jad/instagram-auto-poster)
+- **Software Development Course** — Code for Iraq, 2024
+- **GDG Najaf Workshop** — Google Developer Group, 2024
+- **Programming & Web Development Fundamentals** — The Code People (TCP), 2023
 </details>
 
 <details>
-<summary><b>🐍 Django E-commerce Store</b></summary>
+<summary><b>🎓 Education</b></summary>
 <br/>
 
-Online store built with Django while learning the framework.
-
-**Stack:** Python · Django
-🔗 [View repository](https://github.com/5jad/django-ecommerce-store)
+**B.Sc. Computer Technology Engineering** — Al-Kafeel University, 2022–2026
+Focus: software development, web systems, cybersecurity fundamentals
 </details>
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=5jad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5jad&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=5jad&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=5jad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0a0e17"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5jad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e17"/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/5jad/5jad/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/5jad/5jad/output/github-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/5jad/5jad/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/5jad/5jad/output/github-snake-dark.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/5jad/5jad/output/github-snake.svg"/>
 </picture>
 
-</div>
+<br/>
 
----
+<img src="assets/footer.svg" alt="Let's build something secure" width="100%"/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=120&section=footer" />
 </div>
